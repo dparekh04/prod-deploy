@@ -1,0 +1,7 @@
+this is test file for deploy
+
+DEV line
+-- added in /rabbitmqphp_example
+
+
+
